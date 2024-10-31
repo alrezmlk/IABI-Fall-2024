@@ -34,15 +34,10 @@ This repository provides a structured approach to the study and application of b
 The homework assignments provide hands-on experience with various aspects of biomedical imaging and analysis. Here are the details of the assignments:
 
 ### Homework 1
-
-1. **Part 1: Feature Extraction and Segmentation**
+Feature Extraction and Segmentation**
    - **Objective**: To implement classic feature extraction methods using Python's OpenCV (`cv2`) library.
    - **Task**: Apply these feature extraction methods to images of the retina, focusing on the segmentation of retinal veins.
    - **Implementation**: Train a simple neural network model to perform the segmentation task, leveraging the extracted features.
-
-2. **Part 2: Image Compression with SVD**
-   - **Objective**: Apply Singular Value Decomposition (SVD) for image compression, demonstrating a fundamental application of matrix factorization in computer vision.
-   - **Implementation**: Use SVD to reduce the image size while retaining essential visual features, balancing quality and file size.
 
 ---
 
@@ -52,7 +47,7 @@ The contest project will involve an advanced application of biomedical imaging c
 
 ---
 
-## Article Presentation
+## Paper Presentation
 
 Each student will select and present a scientific article relevant to biomedical imaging. This will include a comprehensive analysis of the article's methods, findings, and significance in the field.
 
