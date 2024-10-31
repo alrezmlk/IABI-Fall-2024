@@ -2,7 +2,7 @@
 
 This repository contains coursework for the **Intelligent Analysis of Biomedical Imaging** course. It includes homework assignments, a semester-end contest project, and a presentation of a selected article. Throughout the semester, additional resources like exams and lecture slides may also be provided with the agreement of Dr. Rohban.
 
-Repository Link: [GitHub Repository]((https://github.com/alrezmlk/IABI-Fall-2024))
+Repository Link: [GitHub Repository]([https://github.com/alrezmlk/IABI-Fall-2024])
 
 **Note:** This page will be updated throughout the semester as new content is added.
 
